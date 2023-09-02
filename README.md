@@ -1,1 +1,2 @@
-# calculator_with_C
+# Just a calculator made in C
+## Enjoy it :)
